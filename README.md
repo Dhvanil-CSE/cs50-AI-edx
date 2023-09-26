@@ -4,7 +4,7 @@ This repository contains my solutions and implementations for the projects in th
 
 ## Project List
 
-1. [Project 0: Search](project0/README.md)
+1. [Project 0: Search](Project 0: Search/Readme.md)
    - Implement various search algorithms (BFS, DFS, A* search) to solve problems.
    - Explore problem-solving strategies in a search space.
 
