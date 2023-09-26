@@ -4,7 +4,7 @@ This repository contains my solutions and implementations for the projects in th
 
 ## Project List
 
-1. [Project 0: Search](Project 0: Search/Readme.md)
+1. [Project 0: Search](https://github.com/Dhvanil-CSE/cs50-AI-edx/tree/main/Project%200%3A%20Search)
    - Implement various search algorithms (BFS, DFS, A* search) to solve problems.
    - Explore problem-solving strategies in a search space.
 
