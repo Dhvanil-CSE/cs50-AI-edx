@@ -8,7 +8,7 @@ This repository contains my solutions and implementations for the projects in th
    - Implement various search algorithms (BFS, DFS, A* search) to solve problems.
    - Explore problem-solving strategies in a search space.
 
-2. [Project 1: Knowledge](project1/README.md)
+2. [Project 1: Knowledge](https://github.com/Dhvanil-CSE/cs50-AI-edx/tree/main/Project%201:Knowledge)
    - Build a knowledge base and inference engine using propositional logic.
    - Implement the resolution inference algorithm.
 
